@@ -1,0 +1,5 @@
+,Nb de features,Accuracy,Meilleurs paramètres
+0,100,0.20697167755991286,"{'multi_class': 'auto', 'penalty': 'none', 'solver': 'saga'}"
+1,500,0.25925925925925924,"{'multi_class': 'auto', 'penalty': 'none', 'solver': 'sag'}"
+2,1000,0.27124183006535946,"{'multi_class': 'auto', 'penalty': 'none', 'solver': 'saga'}"
+3,1500,0.28104575163398693,"{'multi_class': 'auto', 'penalty': 'none', 'solver': 'sag'}"
